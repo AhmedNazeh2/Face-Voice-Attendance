@@ -57,28 +57,29 @@ Smart-Face-Attendance-System/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/shruti6104/Smart-Face-Attendance-System.git
-cd Smart-Face-Attendance-System
+git clone https://github.com/shruti6104/Face-Voice-Attendance.git
+cd Face-Voice-Attendance
 
 2️⃣ Install Dependencies
 baash
 pip install -r requirements.txt
+
 3️⃣ Register Your Face
 bash
 python capture_faces.py
+
 4️⃣ Train the Model
 bash
 python train_model.py
+
 5️⃣ Start the System (Webcam + Photo Support)
 bash
 python main_attendance_app.py
 ✍️ Sample: names.txt
 1,ahmed
 2,nazeh
+
 ✅ Output Sample (attendance.csv)
-pgsql
-Copy
-Edit
 Name,Time
 ahmed,2025-06-21 20:45:12
 🔊 Use Voice Commands
@@ -114,5 +115,6 @@ Streamlit web app interface 🌐
 Firebase / database attendance logs 🧾
 
 Admin dashboard for multiple class tracking 📊
+
 
 
