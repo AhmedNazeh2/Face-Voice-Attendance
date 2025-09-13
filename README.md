@@ -34,25 +34,6 @@ This project allows you to:
 
 ---
 
-## 📂 Folder Structure
-
-Smart-Face-Attendance-System/
-├── capture_faces.py # Register new face via webcam
-├── train_model.py # Train model from dataset
-├── main_attendance_app.py # Unified live + photo recognition system
-├── recognize_image.py # Run recognition on an uploaded photo
-├── voice_command_listener.py # Control app with voice
-├── names.txt # Store ID,name mapping
-├── trainer.yml # Trained model (auto-generated)
-├── attendance.csv # Attendance logs (auto-generated)
-├── dataset/ # Face dataset (auto-generated)
-├── requirements.txt # Install dependencies
-├── .gitignore # Hide sensitive/generated files
-└── README.md # This file
-
-
----
-
 ## 🛠️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
@@ -115,6 +96,7 @@ Streamlit web app interface 🌐
 Firebase / database attendance logs 🧾
 
 Admin dashboard for multiple class tracking 📊
+
 
 
 
