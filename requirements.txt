@@ -1,0 +1,7 @@
+opencv-contrib-python
+numpy
+pandas
+pyttsx3
+Pillow
+SpeechRecognition
+pyaudio
