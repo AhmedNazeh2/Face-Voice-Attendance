@@ -45,6 +45,8 @@ cd Face-Voice-Attendance
 baash
 pip install -r requirements.txt
 
+python main.py
+
 3️⃣ Register Your Face
 bash
 python capture_faces.py
@@ -96,6 +98,7 @@ Streamlit web app interface 🌐
 Firebase / database attendance logs 🧾
 
 Admin dashboard for multiple class tracking 📊
+
 
 
 
