@@ -1,6 +1,6 @@
 # 🤖 Smart Face Recognition Attendance System
 
-A real-time **AI-powered attendance system** using OpenCV, face recognition, and voice interaction — built by Shrutika Darade 👩‍💻
+A real-time **AI-powered attendance system** using OpenCV, face recognition, and voice interaction
 
 This project allows you to:
 - 👤 Detect and recognize faces using webcam or images
@@ -98,6 +98,7 @@ Streamlit web app interface 🌐
 Firebase / database attendance logs 🧾
 
 Admin dashboard for multiple class tracking 📊
+
 
 
 
